@@ -23,7 +23,7 @@ This project proposes an **Explainable Predictive Maintenance Framework** that a
 
 ---
 
-# 🏫 Internship Details
+#  Internship Details
 
 **Institution**
 
