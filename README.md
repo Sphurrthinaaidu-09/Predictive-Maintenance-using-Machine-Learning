@@ -4,7 +4,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Industrial machine failures often lead to unexpected downtime, increased maintenance costs, and productivity loss. Traditional maintenance strategies such as reactive or preventive maintenance are often inefficient because they either respond too late or schedule maintenance regardless of the machine's actual condition.
 
@@ -12,7 +12,7 @@ This project proposes an **Explainable Predictive Maintenance Framework** that a
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Predict industrial machine failures using Machine Learning.
 - Improve prediction transparency using SHAP Explainable AI.
@@ -57,7 +57,7 @@ https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -71,7 +71,7 @@ https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
 ---
 
-# 🔬 Methodology
+#  Methodology
 
 The proposed framework follows the workflow below:
 
@@ -102,7 +102,7 @@ The proposed framework follows the workflow below:
 
 ---
 
-# 📊 Repository Structure
+#  Repository Structure
 
 ```
 Digital-Twin-Inspired-Explainable-Predictive-Maintenance/
@@ -124,41 +124,48 @@ Digital-Twin-Inspired-Explainable-Predictive-Maintenance/
 
 ---
 
-# 📷 Project Visualizations
+#  Project Visualizations
 
 ## Research Framework Architecture
 
-![Research Framework](images/research_framework_architecture.png)
+<img width="1080" height="488" alt="image" src="https://github.com/user-attachments/assets/236d653d-2749-48f3-bc3f-17ade05621b8" />
+
+
 
 ---
 
 ## Machine Failure Distribution
 
-![Failure Distribution](images/machine_failure_distribution.png)
+<img width="1080" height="571" alt="image" src="https://github.com/user-attachments/assets/dd7d8e19-cbd6-4f4a-b27b-bcd74ce55505" />
+
 
 ---
 
 ## Feature Importance Ranking
 
-![Feature Importance](images/feature_importance.png)
+<img width="1016" height="486" alt="image" src="https://github.com/user-attachments/assets/78ce6beb-327f-4999-9707-a64588447f79" />
+
 
 ---
 
 ## SHAP Summary Plot
 
-![SHAP Summary](images/shap_summary_plot.png)
+<img width="957" height="434" alt="image" src="https://github.com/user-attachments/assets/d5a6b398-4ac0-4933-97dd-312098bddb56" />
+
 
 ---
 
 ## SHAP Waterfall Plot
 
-![SHAP Waterfall](images/shap_waterfall_plot.png)
+<img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/22c2ccb5-0b49-48de-8ecc-0068a042f28b" />
+
 
 ---
 
 ## End-to-End Predictive Maintenance Decision Flowchart
 
-![Decision Flowchart](images/predictive_maintenance_decision_flowchart.png)
+<img width="1080" height="942" alt="image" src="https://github.com/user-attachments/assets/800491a8-723a-4c5f-9e65-01b7c69966c5" />
+
 
 ---
 
@@ -176,7 +183,7 @@ The proposed framework demonstrated strong predictive performance while ensuring
 
 ---
 
-# 🧠 Research Contributions
+#  Research Contributions
 
 This work extends beyond traditional machine learning classification by integrating explainability and decision intelligence into predictive maintenance.
 
@@ -206,7 +213,7 @@ The internship report submitted to **National Institute of Technology Tiruchirap
 
 ---
 
-# 🚀 Future Scope
+#  Future Scope
 
 Potential enhancements include:
 
@@ -229,7 +236,7 @@ Aspiring Data Analyst
 
 ---
 
-# 🙏 Acknowledgement
+#  Acknowledgement
 
 This work was carried out as part of my internship at the **Department of Management Studies, National Institute of Technology Tiruchirappalli (NIT Trichy)** under the guidance of **Dr. P. Sridevi**.
 
