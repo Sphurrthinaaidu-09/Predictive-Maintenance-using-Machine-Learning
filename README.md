@@ -164,7 +164,7 @@ Digital-Twin-Inspired-Explainable-Predictive-Maintenance/
 
 ## End-to-End Predictive Maintenance Decision Flowchart
 
-<img width="1080" height="942" alt="image" src="https://github.com/user-attachments/assets/800491a8-723a-4c5f-9e65-01b7c69966c5" />
+<img width="800" height="1317" alt="WhatsApp Image 2026-06-29 at 10 31 47 AM" src="https://github.com/user-attachments/assets/c0d40985-4b9e-4dd3-8c07-b7c6e9309549" />
 
 
 ---
